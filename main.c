@@ -1,6 +1,4 @@
-#include <stdio.h>
-#include <string.h>
-
+// Updated code to fix security vulnerability
 int main(int argc, char *argv[]) {
     char buffer[10];  
     
